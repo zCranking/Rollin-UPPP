@@ -165,3 +165,8 @@ html, body
     height: 150px;
     width: 150px;
 }
+.wasuup{
+	font-family: 'Ubuntu', sans-serif;
+	color: rgb(10, 231, 102);
+	font-size: 30px;
+}
